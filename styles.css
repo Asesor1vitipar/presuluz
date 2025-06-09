@@ -1,0 +1,31 @@
+
+body {
+  background: #f4f6f8;
+}
+h1 {
+  font-size: 1.8rem;
+}
+.bar-container {
+  height: 35px;
+  background: #e9ecef;
+  border-radius: 6px;
+  overflow: hidden;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+td:nth-child(5) .bar-container {
+  width: 400px; /* forzamos ancho de la celda "Visual" */
+}
+.bar {
+  height: 100%;
+  transition: width 0.5s ease;
+}
+.bar.green {
+  background-color: rgba(75, 192, 75, 0.9);
+}
+.bar.red {
+  background-color: rgba(220, 53, 69, 0.9);
+}
+.bar.blue {
+  background-color: rgba(54, 162, 235, 0.9);
+}

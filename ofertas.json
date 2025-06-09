@@ -1,0 +1,112 @@
+[
+  {
+    "TipoTarifa": "2.0TD",
+    "Oferta": "(RESI) NATURGY",
+    "PrecioPotencia": [
+      0.108163,
+      0.033392,
+      0,
+      0,
+      0,
+      0
+    ],
+    "PrecioEnergia": [
+      0.119166,
+      0.119166,
+      0.119166,
+      0,
+      0,
+      0
+    ],
+    "BeneficioUnico": 0,
+    "Promocion": ""
+  },
+  {
+    "TipoTarifa": "2.0TD",
+    "Oferta": "(RESI) ENDESA",
+    "PrecioPotencia": [
+      0.112138,
+      0.040267,
+      0,
+      0,
+      0,
+      0
+    ],
+    "PrecioEnergia": [
+      0.1236,
+      0.1236,
+      0.1236,
+      0,
+      0,
+      0
+    ],
+    "BeneficioUnico": 0,
+    "Promocion": ""
+  },
+  {
+    "TipoTarifa": "2.0TD",
+    "Oferta": "(RESI/PYME) GANA ENERGIA FIJO",
+    "PrecioPotencia": [
+      0.127406,
+      0.049264,
+      0,
+      0,
+      0,
+      0
+    ],
+    "PrecioEnergia": [
+      0.125,
+      0.125,
+      0.125,
+      0,
+      0,
+      0
+    ],
+    "BeneficioUnico": 0,
+    "Promocion": "5\u20ac descuento en repostaje con Repsol"
+  },
+  {
+    "TipoTarifa": "2.0TD",
+    "Oferta": "(RESI/PYME) GANA ENERGIA TRIHORARIO",
+    "PrecioPotencia": [
+      0.127406,
+      0.049264,
+      0,
+      0,
+      0,
+      0
+    ],
+    "PrecioEnergia": [
+      0.184,
+      0.121,
+      0.097,
+      0,
+      0,
+      0
+    ],
+    "BeneficioUnico": 0,
+    "Promocion": "5\u20ac descuento en repostaje con Repsol"
+  },
+  {
+    "TipoTarifa": "2.0TD",
+    "Oferta": "(RESI/PYME) GANA ENERGIA INDEXADO",
+    "PrecioPotencia": [
+      0.0738,
+      0.0019,
+      0,
+      0,
+      0,
+      0
+    ],
+    "PrecioEnergia": [
+      0.16,
+      0.098,
+      0.07,
+      0,
+      0,
+      0
+    ],
+    "BeneficioUnico": 0.167,
+    "Promocion": "5\u20ac descuento en repostaje con Repsol"
+  }
+]
